@@ -23,7 +23,7 @@ This project focuses on building a **scalable ETL pipeline** for analyzing **NYC
 | **Programming Languages**| Python, SQL     |
 | **Visualization**        | Tableau         |
 | **Containerization**     | Docker          |
-| **OS**                   | Linux           |
+
 
 ---
 
